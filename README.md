@@ -11,13 +11,10 @@ Welcome to **reroles.com**, an AI-driven social media marketing agency based in 
   - [2. Predictive Analytics](#2-predictive-analytics)
   - [3. Recommendation Systems](#3-recommendation-systems)
   - [4. Sentiment Analysis](#4-sentiment-analysis)
-  - [5. Image and Video Recognition](#5-image-and-video-recognition)
-  - [6. A/B Testing Automation](#6-ab-testing-automation)
-  - [7. Time Series Forecasting](#7-time-series-forecasting)
 - [How We Use These Algorithms](#how-we-use-these-algorithms)
 
 ## Introduction
-At reroles.com, we harness the power of open-access machine learning algorithms to automate and enhance social media marketing campaigns. Our AI solutions help businesses scale their social presence, automate content strategies, and optimize audience targeting, all while using advanced analytics to ensure the best possible performance. 
+At reroles.com, we harness the power of open-access machine learning algorithms to automate and enhance social media marketing campaigns. Our AI solutions help businesses scale their social presence, automate content strategies, and optimize audience targeting, all while using advanced analytics to ensure the best possible performance. For a good demo on our services and understanding our legitemacy, reroles.com is providing 
 
 ## Key AI Algorithms
 
@@ -44,25 +41,6 @@ Sentiment analysis models such as **VADER** and **TextBlob** are used to analyze
 - Understand audience reactions
 - Provide real-time feedback on social campaigns
 - Manage brand reputation by identifying negative trends early
-
-### 5. Image and Video Recognition
-By integrating AI models for image and video recognition, we analyze visual content to:
-- Identify trending themes or aesthetics
-- Automatically tag and categorize media assets
-- Provide insights on which types of visuals perform best across platforms
-
-### 6. A/B Testing Automation
-We use machine learning algorithms to run automated A/B tests on different social media strategies, including:
-- Variations in ad creatives
-- Different call-to-action (CTA) buttons
-- Various audience targeting options
-This allows us to continuously optimize for the highest engagement rates and conversions.
-
-### 7. Time Series Forecasting
-Time series models are employed to predict future trends and engagements by analyzing time-based data, helping us:
-- Optimize content posting schedules
-- Forecast seasonal trends in user engagement
-- Refine long-term marketing strategies for clients
 
 ## How We Use These Algorithms
 At reroles.com, each of these algorithms plays a crucial role in enhancing the social media presence of our clients. By combining AI-driven insights with industry expertise, we ensure that our clients receive data-backed strategies that maximize audience engagement and campaign ROI.
